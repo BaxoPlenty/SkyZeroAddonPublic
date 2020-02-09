@@ -1,0 +1,10 @@
+{
+  "uuid": "%uuid%",
+  "name": "SkyZero.GA Addon",
+  "description": "Benutze dieses Addon um features auf SkyZero.GA freizuschalten!",
+  "version": 1,
+  "author": "BaxoPlenty",
+  "mainClass": "de.baxoplenty.SkyZeroAddon",
+  "category": 3,
+  "icon": "https://media.discordapp.net/attachments/645344272815620118/675788438217162752/SkyZeroGA.png"
+}
